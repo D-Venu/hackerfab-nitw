@@ -1,7 +1,5 @@
 # HackerFab NITW
 
-We're trying to build a small photolithography setup in our hostel. We're following the [HackerFab](https://docs.hackerfab.org/home) guide, and the HackerFab community at IIT Bombay has been helping us along the way.
-
 For our first round, the plan is to build a spin coater out of a PC fan, then do one complete lithography run on a glass slide: coat it with resin, expose a pattern, and develop it. After that we'll repeat it on a small piece of silicon. Things like oxide growth, etching, doping and metal layers come later, and we haven't started on them.
 
 ## Where we are right now (November 2026)
