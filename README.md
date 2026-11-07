@@ -1,6 +1,6 @@
 # HackerFab NITW
 
-We're a group of second-year EEE students at NIT Warangal trying to build a small photolithography setup in our hostel. We're following the [HackerFab](https://docs.hackerfab.org/home) guide, and the HackerFab community at IIT Bombay has been helping us along the way.
+We're trying to build a small photolithography setup in our hostel. We're following the [HackerFab](https://docs.hackerfab.org/home) guide, and the HackerFab community at IIT Bombay has been helping us along the way.
 
 For our first round, the plan is to build a spin coater out of a PC fan, then do one complete lithography run on a glass slide: coat it with resin, expose a pattern, and develop it. After that we'll repeat it on a small piece of silicon. Things like oxide growth, etching, doping and metal layers come later, and we haven't started on them.
 
@@ -32,7 +32,7 @@ This is what happens when it starts from rest. It overshoots to around 5,100 RPM
 
 ![bench](media/bench-nano-breadboard-fan.png)
 
-We recorded this on 6 November 2026, with the fan blades still attached and no chuck mounted.
+We recorded this on 31st Oct 2026, with the fan blades still attached and no chuck mounted.
 
 Videos:
 - [`closed-loop-4000rpm-screen.mp4`](media/closed-loop-4000rpm-screen.mp4): the code and the live speed graph, from start-up until it settles
@@ -50,8 +50,4 @@ Videos:
 | [`mask/HF-NITW_mask_v1.pdf`](mask/HF-NITW_mask_v1.pdf) | Our test mask, with a resolution ladder (50 to 1500 µm lines and gaps) and an 8-step exposure ladder |
 | [`media/`](media/) | Graphs, photos and videos |
 
-## Team
 
-- Venu Gopal Dash: coordinating the team, the build guide, and checking parts and specs
-- Arjan Singh Aujla: controller code
-- [name]: lithography prep (mask, exposure setup, developing station)
